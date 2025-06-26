@@ -1,0 +1,5 @@
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+plotly>=5.15.0
+dash>=2.15.0    # (선택: 인터랙티브 웹 시각화용)
